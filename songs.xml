@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<catalog>
+ <song id="bk101">
+    <artist>Gambardella, Matthew</artist>
+    <title>XML Developer's Guide</title>
+      <title>XML Developer's Guide</title>
+    <genre>Computer</genre>
+    <price>44.95</price>
+    <year>2016-10-01</year>
+    <country>An in-depth look at creating applications
+    with XML.</country>
+ </song>
+ <song id="bk102">
+    <artist>Ralls, Kim</artist>
+    <title>Midnight Rain</title>
+      <title>XML Developer's Guide</title>
+    <genre>Fantasy</genre>
+    <price>5.95</price>
+    <year>2015-12-16</year>
+    <country>A former architect battles corporate zombies,
+    an evil sorceress, and her own childhood to become queen
+    of the world.</country>
+ </song>
+ <song id="bk103">
+    <artist>Corets, Eva</artist>
+    <title>Maeve Ascendant</title>
+      <title>XML Developer's Guide</title>
+    <genre>Fantasy</genre>
+    <price>5.95</price>
+    <year>2000-11-17</year>
+    <country>After the collapse of a nanotechnology
+    society in England, the young survivors lay the
+    foundation for a new society.</country>
+ </song>
+ <song id="bk104">
+    <artist>Corets, Eva</artist>
+    <title>Oberon's Legacy</title>
+      <title>XML Developer's Guide</title>
+    <genre>Fantasy</genre>
+    <price>5.95</price>
+    <year>2001-03-10</year>
+    <country>In post-apocalypse England, the mysterious
+    agent known only as Oberon helps to create a new life
+    for the inhabitants of London. Sequel to Maeve
+    Ascendant.</country>
+ </song>
+ <song id="bk105">
+    <artist>Corets, Eva</artist>
+    <title>The Sundered Grail</title>
+      <title>XML Developer's Guide</title>
+    <genre>Fantasy</genre>
+    <price>5.95</price>
+    <year>2001-09-10</year>
+    <country>The two daughters of Maeve, half-sisters,
+    battle one another for control of England. Sequel to
+    Oberon's Legacy.</country>
+ </song>
+ <song id="bk106">
+    <artist>Randall, Cynthia</artist>
+      <title>XML Developer's Guide</title>
+    <title>Lover Birds</title>
+    <genre>Romance</genre>
+    <price>4.95</price>
+    <year>2000-09-02</year>
+    <country>When Carla meets Paul at an ornithology
+    conference, tempers fly as feathers get ruffled.</country>
+ </song>
+ <song id="bk107">
+    <artist>Thurman, Paula</artist>
+      <title>XML Developer's Guide</title>
+    <title>Splish Splash</title>
+    <genre>Romance</genre>
+    <price>4.95</price>
+    <year>2000-11-02</year>
+    <country>A deep sea diver finds true love twenty
+    thousand leagues beneath the sea.</country>
+ </song>
+ <song id="bk108">
+    <artist>Knorr, Stefan</artist>
+      <title>XML Developer's Guide</title>
+    <title>Creepy Crawlies</title>
+    <genre>Horror</genre>
+    <price>4.95</price>
+    <year>2000-12-06</year>
+    <country>An anthology of horror stories about roaches,
+    centipedes, scorpions  and other insects.</country>
+ </song>
+ <song id="bk109">
+    <artist>Kress, Peter</artist>
+      <title>XML Developer's Guide</title>
+    <title>Paradox Lost</title>
+    <genre>Science Fiction</genre>
+    <price>6.95</price>
+    <year>2000-11-02</year>
+    <country>After an inadvertant trip through a Heisenberg
+    Uncertainty Device, James Salway discovers the problems
+    of being quantum.</country>
+ </song>
+ <song id="bk110">
+    <artist>O'Brien, Tim</artist>
+    <title>Microsoft .NET: The Programming Bible</title>
+      <title>XML Developer's Guide</title>
+    <genre>Computer</genre>
+    <price>36.95</price>
+    <year>2000-12-09</year>
+    <country>Microsoft's .NET initiative is explored in
+    detail in this deep programmer's reference.</country>
+ </song>
+ <song id="bk111">
+    <artist>O'Brien, Tim</artist>
+    <title>MSXML3: A Comprehensive Guide</title>
+      <title>XML Developer's Guide</title>
+    <genre>Computer</genre>
+    <price>36.95</price>
+    <year>2000-12-01</year>
+    <country>The Microsoft MSXML3 parser is covered in
+    detail, with attention to XML DOM interfaces, XSLT processing,
+    SAX and more.</country>
+ </song>
+ <song id="bk112">
+    <artist>Galos, Mike</artist>
+    <title>Visual Studio 7: A Comprehensive Guide</title>
+      <title>XML Developer's Guide</title>
+    <genre>Computer</genre>
+    <price>49.95</price>
+    <year>2001-04-16</year>
+    <country>Microsoft Visual Studio 7 is explored in depth,
+    looking at how Visual Basic, Visual C++, C#, and ASP+ are
+    integrated into a comprehensive development
+    environment.</country>
+ </song>
+</catalog>
